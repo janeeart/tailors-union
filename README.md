@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * Description
-* Installation
 * License
 * Contributors
 * Deployed Site
@@ -10,15 +9,14 @@
   
   
 ## Description
-A web application that connects users to Slow Fashion Artisans in their region. This project was designed and built on WordPress.
+A web application that connects users to Slow Fashion Artisans in their region. This project was designed and built on WordPress. The source code for this project is currently contained on WordPress.com.
 
   
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
 ## Contributors
-Janée Artis
-Baily Rose
+Janée Artis & Baily Rose
   
 ## Deployed Site
 https://TailorsUnion.com/
